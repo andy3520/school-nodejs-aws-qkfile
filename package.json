@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "amazon-cognito-identity-js": "^3.0.3",
-    "aws-sdk": "^2.350.0",
+    "aws-sdk": "^2.814.0",
     "body-parser": "latest",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
